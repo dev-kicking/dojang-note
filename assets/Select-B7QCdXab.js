@@ -1,0 +1,1 @@
+import{r as s,j as l}from"./index-BInPLKMw.js";const n=s.forwardRef(function({className:i,invalid:e,size:a="medium",...t},r){return l.jsx("select",{...t,ref:r,className:["ui-select",`ui-select--${a}`,e?"ui-select--invalid":"",i].filter(Boolean).join(" "),"aria-invalid":e??t["aria-invalid"]})});export{n as S};
