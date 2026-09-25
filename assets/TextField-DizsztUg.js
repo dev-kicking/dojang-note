@@ -1,0 +1,1 @@
+import{c as l,j as n}from"./index-CO_Fqetj.js";const d=l.forwardRef(function({className:t,invalid:i,size:a="medium",...e},r){return n.jsx("input",{...e,ref:r,className:["ui-text-field",`ui-text-field--${a}`,i?"ui-text-field--invalid":"",t].filter(Boolean).join(" "),"aria-invalid":i??e["aria-invalid"]})});export{d as T};

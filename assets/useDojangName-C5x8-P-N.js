@@ -1,0 +1,1 @@
+import{c as r,m as u}from"./index-CO_Fqetj.js";function o(t){const[s,e]=r.useState(null);return r.useEffect(()=>{if(!t){e(null);return}const a=u();if(!a){e(null);return}(async()=>{try{const{data:n,error:l}=await a.from("dojangs").select("name").eq("id",t).maybeSingle();e(!l&&n&&typeof n.name=="string"?n.name:null)}catch{e(null)}})()},[t]),s}export{o as u};

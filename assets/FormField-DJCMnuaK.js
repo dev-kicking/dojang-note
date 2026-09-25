@@ -1,0 +1,1 @@
+import{j as e}from"./index-CO_Fqetj.js";function a({label:l,hint:i,children:s,className:r,size:n="medium"}){return e.jsxs("label",{className:["ui-field",`ui-field--${n}`,r].filter(Boolean).join(" "),children:[e.jsx("span",{children:l}),s,i&&e.jsx("small",{children:i})]})}export{a as F};
