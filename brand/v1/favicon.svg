@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <g id="brand-tile">
+    <path id="brand-tile-shape" d="M220 0h584a220 220 0 0 1 220 220v584a220 220 0 0 1-220 220H220A220 220 0 0 1 0 804V220A220 220 0 0 1 220 0Z" fill="#2563EB"/>
+  </g>
+  <g id="brand-core-notebook">
+    <path id="notebook-page" fill="#FFFFFF" d="M322 156h406c40 0 72 32 72 72v533c0 43-34 77-77 77H327c-43 0-77-34-77-77V233c0-43 29-77 72-77Z"/>
+  </g>
+  <g id="brand-core-check" fill="none" stroke="#2563EB" stroke-linecap="round" stroke-linejoin="round" stroke-width="70">
+    <path id="check-stroke" d="m429 414 68 80 146-148"/>
+  </g>
+  <g id="brand-industry-taekwondo-belt">
+    <g id="taekwondo-belt-ends" fill="#172033" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="70">
+      <path id="taekwondo-belt-tail-left" d="m478 650-242 160 68 80 183-131c17-12 32-28 47-46Z"/>
+      <path id="taekwondo-belt-tail-right" d="m546 650 238 160-68 80-183-131c-17-12-32-28-47-46Z"/>
+    </g>
+    <g id="taekwondo-belt-wrap" fill="#172033">
+      <path id="taekwondo-belt-wrap-left" d="M266 598c54 36 124 54 194 57-28 8-50 32-95 52-35-7-70-20-99-30Z"/>
+      <path id="taekwondo-belt-wrap-right" d="M784 598c-54 36-124 54-194 57 28 8 50 32 95 52 35-7 70-20 99-30Z"/>
+    </g>
+    <path id="taekwondo-belt-knot" fill="#172033" d="M497 638h40c21 0 37 14 36 34l-7 53c-2 16-14 26-31 26h-39c-17 0-29-10-31-26l-7-53c-1-20 15-34 39-34Z"/>
+  </g>
+</svg>

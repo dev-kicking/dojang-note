@@ -1,0 +1,1 @@
+import{c as r,j as c}from"./index-DpJjjcNt.js";const n=r.forwardRef(function({className:i,invalid:e,size:a="medium",...t},s){return c.jsx("select",{...t,ref:s,className:["ui-select",`ui-select--${a}`,e?"ui-select--invalid":"",i].filter(Boolean).join(" "),"aria-invalid":e??t["aria-invalid"]})});export{n as S};
