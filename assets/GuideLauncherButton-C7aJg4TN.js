@@ -1,1 +1,0 @@
-import{r,j as n,B as a,n as s}from"./index-Bt2DaGG9.js";const i=r.forwardRef(function({className:o,...t},e){return n.jsxs(a,{...t,ref:e,className:["guide-launcher-button",o].filter(Boolean).join(" "),children:[n.jsx(s,{name:"book"}),"사용 가이드"]})});export{i as G};

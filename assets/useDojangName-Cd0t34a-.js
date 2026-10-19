@@ -1,0 +1,1 @@
+import{r,t as u}from"./index-ChxZkrFg.js";function c(t){const[s,e]=r.useState(null);return r.useEffect(()=>{if(!t){e(null);return}const a=u();if(!a){e(null);return}(async()=>{try{const{data:n,error:l}=await a.from("dojangs").select("name").eq("id",t).maybeSingle();e(!l&&n&&typeof n.name=="string"?n.name:null)}catch{e(null)}})()},[t]),s}export{c as u};

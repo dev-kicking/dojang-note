@@ -1,0 +1,1 @@
+import{r,j as o,B as a,I as s}from"./index-ChxZkrFg.js";const i=r.forwardRef(function({className:t,...n},e){return o.jsxs(a,{...n,ref:e,className:["guide-launcher-button",t].filter(Boolean).join(" "),children:[o.jsx(s,{name:"book"}),"사용 가이드"]})});export{i as G};
