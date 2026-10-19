@@ -1,1 +1,0 @@
-import{r,q as u}from"./index-Bt2DaGG9.js";function c(t){const[s,e]=r.useState(null);return r.useEffect(()=>{if(!t){e(null);return}const a=u();if(!a){e(null);return}(async()=>{try{const{data:n,error:l}=await a.from("dojangs").select("name").eq("id",t).maybeSingle();e(!l&&n&&typeof n.name=="string"?n.name:null)}catch{e(null)}})()},[t]),s}export{c as u};
